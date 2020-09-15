@@ -2,7 +2,7 @@
 
 ### Performing analysis for Kickstarter data to uncover trends. Using techniques including: filtering, statistics, box & whisker, and pivot charts. 
 
-![Outcomes_Based_on_Launch_Date.png](C:/Users/Mckenzie/Desktop/Class Folder).
+![Outcomes_Based_on_Launch_Date.png](C:/Users/Mckenzie/Desktop/Class Folder/Outcomes_Based_on_Launch_Date.png).
 
 *One of our findings that we discovered was how Theater was the most successful in the months of May and June. Also showing that they are not so successful in the month of October.
 
