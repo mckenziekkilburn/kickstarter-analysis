@@ -13,12 +13,12 @@
 ### When inspecting the Outcomes Based on Launch Date chart, we can see that early in the year months are more than likely foing to be more successful than later in the year. 
 
 
-![Theater_Outcomes_vs_Launch.png] (https://github.com/mckenziekkilburn/kickstarter-analysis/blob/7953581a5a754cb761c9be8fe3024d0f36d5d906/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/mckenziekkilburn/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### As shown in the image below,
 
-![Outcomes_VS_Goals.png] (https://github.com/mckenziekkilburn/kickstarter-analysis/blob/7953581a5a754cb761c9be8fe3024d0f36d5d906/resources/Outcomes_VS_Goals.png)
+![Outcomes_VS_Goals](https://github.com/mckenziekkilburn/kickstarter-analysis/blob/master/resources/Outcomes_VS_Goals.png)
 
 
 ### Challenges or Difficulties encountered
