@@ -10,13 +10,13 @@
 
 ## Analysis and Challenges
 
-### When inspecting the Outcomes Based on Launch Date chart, we can see that early in the year months are more than likely foing to be more successful than later in the year. 
+### When inspecting the Outcomes Based on Launch Date chart, we can see that early in the year months are going to be more successful than fall/winter months. 
 
 
 ![Theater_Outcomes_vs_Launch](https://github.com/mckenziekkilburn/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
 
-### As shown in the image below,
+### As shown in the image below, the lower the dollar amount range is the more they were successful. The higher the amount ranges go for, the higher percentage we have for failure. 
 
 ![Outcomes_VS_Goals](https://github.com/mckenziekkilburn/kickstarter-analysis/blob/master/resources/Outcomes_VS_Goals.png)
 
@@ -28,7 +28,7 @@
 
 - We can conclude that in the months of May and June, Theater is the most successful. However in the months of November and December, we are the least successful in the Theater category. 
 
-- For the plays subcategory, when we compare the ranges that are given, we can conclude that we were more successful with the range of less than $1,000.  
+- For the plays subcategory, when we compare the ranges that are given, we can conclude that we were more successful with the range of less than $1,000. The reason for this is because we have a successful rate of 76% and only a 24% rate or failure.   
 
 - Something that I noticed when looking at the data is that some of it is misleading. For instance, for the Outcomes Based on Goals chart for the ranges 45000 to 49999 it shows that 100% was failed. However if you were not looking at the data table you wouldnt see that there was on 1 play that took place for that range. 
 
