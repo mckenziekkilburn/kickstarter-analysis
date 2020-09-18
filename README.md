@@ -28,7 +28,7 @@
 
 
 
-##Challenges or Difficulties encountered
+## Challenges or Difficulties encountered
 
 
 - When I was working with the COUNTIFS formula in Excel, I did have trouble with it at first. I was not getting the right amounts, they were too high in value.  However I resolved the issue because I was not putting in the last critia range which was for subcategory plays in all of the cells. This solved my issue, because I went back in and observed each cell.  
