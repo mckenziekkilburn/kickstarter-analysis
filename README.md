@@ -8,21 +8,21 @@
 
 ### Our purpose for the analysis is to show Louise, how different campaigns fared in relation to their launch dates and their funding goals. 
 
-## Analysis and Challenges
+## Analysis 
 
-### When inspecting the Outcomes Based on Launch Date chart, we can see that early in the year months are going to be more successful than fall/winter months. 
+### To perform this ananlysis I used a Pivot Chart to show Louise which months were the least and most successful. I first took all of the data from the original sheet and converted it into a Pivot Table. Then, I filtered it down to Parent Category and years. Additionally choosing the values as Outcomes, and columns as outcomes. Lastly choosing the Date Created Conversion for the rows, so that it will only show months. I was confused at first because Excel automatically put years and quarters into the rows section so I had to delete those values from the Excel Pivot Table to showcase just the months.  
 
 
 ![Theater_Outcomes_vs_Launch](https://github.com/mckenziekkilburn/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
 
-### As shown in the image below, the lower the dollar amount range is the more they were successful. The higher the amount ranges go for, the higher percentage we have for failure. 
+### As shown in the image below, I had to create a line chart to provide insight to Louise how our outcomes were based on the funding goal that we were striving to reach. To get the chart, I had to create a table with all of the ranges that are shown below. To get the calculations, I had to use the COUNTIFS() function to pull data from the orginal Kickstarter worksheet. After completing the calculations and totaling the Projects. I was to perform each category with percentages. 
 
 ![Outcomes_VS_Goals](https://github.com/mckenziekkilburn/kickstarter-analysis/blob/master/resources/Outcomes_VS_Goals.png)
 
 
 ### Challenges or Difficulties encountered
-- When I was working with the COUNTIFS formula in Excel, I did have trouble with it at first. I was not getting the right amounts, they were too high in value.  However I resolved the issue because I was not putting in the last critia range which was for subcategory plays. 
+- When I was working with the COUNTIFS formula in Excel, I did have trouble with it at first. I was not getting the right amounts, they were too high in value.  However I resolved the issue because I was not putting in the last critia range which was for subcategory plays in all of the cells. This solved my issue, because I went back in and observed each cell.  
 
 ## Results
 
